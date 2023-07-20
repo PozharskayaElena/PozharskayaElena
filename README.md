@@ -1,6 +1,6 @@
 # PozharskayaElena
 
-![Header](https://github.com/PozharskayaElena/PozharskayaElena/blob/main/assets/Header_1.png)
+![Header]
 
 ## About me
 Меня зовут 
