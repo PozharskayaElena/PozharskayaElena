@@ -8,9 +8,9 @@
 ## Portfolio 
 
 ### Bug reports 
-https://trello.com/b/cm0VL3SU 
-https://trello.com/b/h91XvKMZ 
-https://trello.com/b/Di9RZDEQ 
+https://trello.com/b/cm0VL3SU /  
+https://trello.com/b/h91XvKMZ / 
+https://trello.com/b/Di9RZDEQ / 
 
 ### Check-lists
 
