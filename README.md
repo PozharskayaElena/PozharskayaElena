@@ -32,8 +32,7 @@ https://trello.com/b/Di9RZDEQ
 ![Python](https://img.shields.io/badge/-Python-254A6B?style=for-the-badge&logo=Python&logoColor=FFE56A)
 ![DevTools](https://img.shields.io/badge/-DevTools-266EE4?style=for-the-badge&logo=DevTools&logoColor=266EE4)
 ![Git](https://img.shields.io/badge/-Git-181617?style=for-the-badge&logo=Git&logoColor=F0F0F0)
-![HTML5](https://img.shields.io/badge/-HTML5-3A3B3D?style=for-the-badge&logo=HTML5&logoColor=64C18)
-![CSS3](https://img.shields.io/badge/-CSS3-254ADC?style=for-the-badge&logo=CSS3&logoColor=2094EF)
+
 
 
 
